@@ -23,8 +23,8 @@
 // console.log(null>=0);//true 
 
 
-console.log("2"==2);//true string convert to number
-console.log("2"===2);//false bcz equalateral === string not convert
+// console.log("2"==2);//true string convert to number
+// console.log("2"===2);//false bcz equalateral === string not convert
 
 
 
